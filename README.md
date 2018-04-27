@@ -4,7 +4,8 @@
 > Java 8,
 > Eclipse,
 > MySQL,
-> Tomcat 8 +
+> Tomcat 8 +,
+> Maven
 
 ## In this Java WebApp it will be used JSF, PrimeFaces, CDI and JPA.
 
