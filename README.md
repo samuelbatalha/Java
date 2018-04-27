@@ -46,7 +46,7 @@
 
 - INSERT INTO db_estudo_java.tb_usuario (ds_login,ds_senha) VALUES('admin','123456');
 
-# After DataBase creation, you can finnaly deploy your Java Application in Tomcat via Eclipse;
+### After DataBase creation, you can finnaly deploy your Java Application in Tomcat via Eclipse;
 
-# Any questions, send-me a message here or at samuelwsb@gmail.com
+###### Any questions, send-me a message here or at samuelwsb@gmail.com
 
